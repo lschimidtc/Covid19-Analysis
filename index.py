@@ -11,6 +11,10 @@ def load_dataset(arquivo):
     dataset = dataset.reset_index(drop = True)
     return dataset
 
+st.set_page_config(page_title='COVID-19 Analysis',
+                   page_icon='src/fvc.png',
+                   layout="wide")
+
 dataset = load_dataset('covid_dataset_v2.csv')
 st.title("COVID-19 per cities in Brasil")
 st.markdown("Analysis of data from the site brasil.io  "
