@@ -12,7 +12,7 @@ def load_dataset(arquivo):
     return dataset
 
 dataset = load_dataset('covid_dataset_v2.csv')
-st.title("COVID-19 per capital in Brasil")
+st.title("COVID-19 per cities in Brasil")
 st.markdown("Analysis of data from the site brasil.io  "
             "about occurrences of COVID-19 in Brasilian cities.")
 st.header("Cases of COVID-19 in cities")
