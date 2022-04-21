@@ -8,3 +8,8 @@ This app is a dashboard that runs an analysis on any capital from Brazil, showin
 The result is a web page accessible by several users simultaneously, interactive and presenting the changes or adjustments made to the Python code as soon as the Python script file is saved.
 
 ### By: [Lucas Schimidt](https://linkedin.com/in/lucasschimidtc), 2022 
+
+## Examples:
+![alt text](https://github.com/lschimidtc/Covid19-Analysis/blob/main/src/img.png)
+![alt text](https://github.com/lschimidtc/Covid19-Analysis/blob/main/src/img2.png)
+![alt text](https://github.com/lschimidtc/Covid19-Analysis/blob/main/src/img3.png)
